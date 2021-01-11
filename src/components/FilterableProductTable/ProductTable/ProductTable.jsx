@@ -41,7 +41,7 @@ class ProductTable extends React.Component {
 
         return (
             <div className={styles.wrapper}>
-                <table>
+                <table className={styles.table}>
                     <thead>
                         <tr>
                             <th>Name</th>

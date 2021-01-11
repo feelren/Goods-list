@@ -1,3 +1,12 @@
 .wrapper table {
     margin: 0 auto;
 }
+
+.table {
+    border-collapse: collapse;
+}
+
+.wrapper table th,
+td {
+    border: 1px solid black;
+}

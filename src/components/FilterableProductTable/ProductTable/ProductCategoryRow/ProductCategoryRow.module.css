@@ -1,4 +1,4 @@
-.row {
-    border: 3px solid gray;
-    margin: 5px 0;
+.categoryName {
+    font-style: italic;
+    text-align: center;
 }

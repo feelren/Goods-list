@@ -1,12 +1,9 @@
 .wrapper {
     display: flex;
-    margin: 0 auto;
-    padding: 20px;
+    margin: 0 auto 20px auto;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-color: #44a449;
-
 }
 
 .wrapper>input {

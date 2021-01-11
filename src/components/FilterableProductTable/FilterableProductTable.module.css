@@ -1,4 +1,8 @@
 .wrapper {
-    background-color: #ffcaca;
-    padding: 30px 30%;
+    margin: 40px auto;
+    padding: 20px;
+    max-width: 30%;
+    background-color: #75f8fb;
+    border-radius: 10px;
+    border: 4px solid gray;
 }

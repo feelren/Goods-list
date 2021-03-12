@@ -1,3 +1,5 @@
+Задача из официальной документации REACTjs. Практика для параллельного изучения этой документации
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
